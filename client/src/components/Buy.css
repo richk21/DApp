@@ -1,0 +1,119 @@
+
+.custom-container {
+  background: #5f2e20;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  min-width: 50%;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
+@media (max-width: 768px) {
+  .custom-container {
+    min-width: auto;
+  }
+}
+
+.custom-container input.form-control {
+  border: 1px solid #1e0d07;
+  background-color: #4e261a;
+  color: #fff;
+}
+
+.form-custom-container {
+  background-color: #4e261a;
+  padding: 20px;
+  border-radius: 20px;
+  border-bottom-right-radius: 100px;
+}
+
+.custom-container input.form-control::placeholder {
+  color: #cdafa7; /* ddd2cf */
+}
+
+.custom-container input.form-control:focus {
+  outline-color: #1e0d07;
+  outline-style: solid;
+  outline-width: 1px;
+  box-shadow: none;
+}
+
+.list-container {
+  list-style-type: none;
+  text-align: right;
+  padding-top: 50px;
+  padding-right: 50px;
+}
+
+.list-item-container {
+  display: inline;
+  margin: 50px;
+  color: #cdafa7;
+  cursor: pointer;
+}
+
+.list-container .list-item-container .link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.list-item-container:not(.link) {
+  color: #cdafa7;
+}
+
+.list-item-container:hover {
+  color: white;
+}
+
+.custom-container .input-group {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.custom-container label {
+  color: white;
+  font-weight: bold;
+}
+
+.custom-container .input-group-prepend .input-group-text {
+  background-color: #4e261a;
+  border: 1px solid #4e261a;
+  color: white;
+}
+
+.coffee-button {
+  background-color: #301812;
+  border-color: #4e261a;
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+  padding: 20px;
+}
+
+.coffee-button:hover {
+  background-color: #180905;
+  border-color: #4e261a;
+  color: white;
+}
+
+.circle-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #5f2e20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+
+
+.circle-button i {
+  color: white;
+  font-size: 24px;
+}

@@ -1,0 +1,28 @@
+.container{
+  background-color: "#ddd2cf";
+  border-color: #7d6d62;
+  padding:100px
+}
+.coffee-table {
+  background-color: #f9eede;
+  border-collapse: collapse;
+  width: 100%;
+  border:none;
+  border-radius: 50px;
+}
+
+.coffee-table th {
+  background-color: #6d3a2c;
+  color: #fff;
+  border:none;
+  padding:20px;
+  border: 1px;
+}
+
+.coffee-table td {
+  background-color: #ceb3ab;
+  color: #1e0d07;
+  padding: 10px;
+  border:none;
+}
+
