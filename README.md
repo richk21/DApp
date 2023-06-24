@@ -16,5 +16,5 @@ A simple DApp made in ReactJS and Solidity.
 ### 5. And here's your freshly brewed message!
 ![image](https://github.com/richk21/DApp/assets/64418209/b7fc9988-13b9-432a-ba2d-2e867cafa657)
 
-And that's it!
+## And that's it!
 Feel free to send me feedbacks about my projects through my Decentralized App✨
