@@ -18,5 +18,8 @@ Switch to the Goerli Test Network from the options in the drop-down at the top o
 ### 6. And here's your freshly brewed message!
 ![image](https://github.com/richk21/DApp/assets/64418209/b7fc9988-13b9-432a-ba2d-2e867cafa657)
 
+## How to contribute?
+Check out the page for contribution rules and guidelines right [here](https://github.com/richk21/DApp/blob/main/CONTRIBUTING.md)
+
 ## And that's it!
 Feel free to send me feedbacks about my projects through my Decentralized App✨
