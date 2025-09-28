@@ -1,5 +1,5 @@
 # Brew Notes
-A simple DApp made in ReactJS and Solidity. [Here's](https://richasnotesbrewery.netlify.app/) a sample.
+A simple crowdfunding DApp made in ReactJS and Solidity.
 
 ### 1. Connect to metamask wallet
 ![image](https://github.com/richk21/DApp/assets/64418209/682310b0-e51b-45b4-8aaf-169d3e9efb60)
